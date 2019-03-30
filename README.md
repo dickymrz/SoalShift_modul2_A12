@@ -159,4 +159,4 @@ int main() {
 /*Untuk menjalankan program soal 2 dengan cara 
 melakukan compile terlebih dahulu pada code soal2.c lalu
 change owner elen.ku menjadi www-data dengan 
-sudo chown www-data:www-data elen.ku 
+sudo chown www-data:www-data elen.ku  
